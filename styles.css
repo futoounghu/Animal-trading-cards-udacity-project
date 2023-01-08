@@ -1,0 +1,44 @@
+.card{
+    width:320px;
+    height:620px;
+    border: 1pt solid grey;
+    padding-left: 5px;
+    padding-right:5px;
+    margin:AUTO;
+    box-shadow: 2px 2px grey;
+    
+}
+
+
+img{width: 300px;
+    height:200px;
+    margin:auto;
+    padding-left: 10px;
+}
+
+h3{padding-left: 5px;}
+
+.info{ width:300px;
+height:320px;
+border:1pt solid grey;
+margin-left: 9px;
+margin-right:10px;
+margin-top:10px;
+margin-bottom: 10px;
+}
+
+p.intro{ font-style: italic;
+padding-left:10px;
+}
+
+span{font-weight: bold;}
+
+ul{ 
+    list-style:none;
+padding: 0;
+padding-left: 10px;}
+
+p{padding-left: 10px;
+padding-bottom:10px;
+padding-right:10px ;}
+
